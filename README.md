@@ -1,1 +1,1 @@
-Este es parte del código fuente del sistema desarrollado en python para joyerias, proximamente estará disponible el resto del código
+Aplicación de escritorio para manejar de forma eficiente su negocio, da seguimiento y exporta a ecxel los movimientos de productos (entrada, salida, ventas....). 
